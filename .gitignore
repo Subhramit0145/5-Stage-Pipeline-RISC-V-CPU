@@ -1,0 +1,21 @@
+# Simulation artifacts
+*.vcd
+*.vvp
+*.out
+*.log
+*.wlf
+*.o
+
+# Synthesis & Implementation artifacts
+*.jou
+*.log
+*.pb
+*.dcp
+.Xil/
+xsim.dir/
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+*~
+*.swp
